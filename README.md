@@ -59,7 +59,7 @@ Collection of projects suggested by ChatGPT to learn Go
 👉 learn: lightweight database + HTTP
 
 ### ⚙️ Advanced but small Go Projects
-9. **Minimal container runtime** - **DONE**
+9. **Minimal container runtime**
 
 - (not full Docker, just a toy)
 - use namespaces + chroot
@@ -67,7 +67,7 @@ Collection of projects suggested by ChatGPT to learn Go
 
 👉 learn: Linux syscalls + Go
 
-10. **Simple key-value DB** - **DONE**
+10. **Simple key-value DB** 
 
 - append-only log file
 - index in memory
